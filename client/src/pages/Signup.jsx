@@ -28,7 +28,7 @@ const Signup = () => {
       formData.append("profileImage", profileImage);
 
       const result = await axios.post(
-        "http://localhost:6969/auth/signup",
+        "https://mern-note-app-i8ij.onrender.com/auth/signup",
         formData,
         {
           headers: {

@@ -3,7 +3,7 @@
 
 
 ```bash
-  git clone https://github.com/Yuvadi29/NewFMN
+  https://github.com/nirvair09/mern-note-app.git
 ```
 
 Get inside the server folder and run

@@ -19,3 +19,4 @@ cd client
 npm install
 npm run dev
 ```
+Deployed Link :- "https://mern-note-app-a49x.onrender.com"

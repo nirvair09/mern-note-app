@@ -23,7 +23,7 @@ const Login = () => {
         userPassword,
       };
 
-      const result = await axios.post("http://localhost:6969/auth/login", user);
+      const result = await axios.post("https://mern-note-app-i8ij.onrender.com/auth/login", user);
       if(result.data.status==="Error")
       {
         toast.error("wrong credentials ");
